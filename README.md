@@ -1,2 +1,2 @@
 # Quiz App
-This is a quiz ap containg questions on android development.
+This is a quiz app containg questions on android development.
